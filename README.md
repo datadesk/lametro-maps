@@ -1,5 +1,7 @@
 # Los Angeles Metro Maps
 
+Geospatial data from the L.A. Metro's public transportation system
+
 ## Source
 
 http://developer.metro.net/introduction/gis-data/download-gis-data/
