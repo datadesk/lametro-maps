@@ -1,0 +1,90 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "Vignes entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000028, "LATITUDE": 34.0554, "LONGITUDE": -118.23346, "STATION": "Union Station", "STOPNUMNEW": 80214.0, "PORTALNUM": 80214.1 }, "geometry": { "type": "Point", "coordinates": [ -118.23346, 34.0554 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "Alameda entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "OLDSTOPNUM": 80000028, "LATITUDE": 34.05603, "LONGITUDE": -118.23529, "STATION": "Union Station", "STOPNUMNEW": 80214.0, "PORTALNUM": 80214.2 }, "geometry": { "type": "Point", "coordinates": [ -118.23529, 34.05603 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "Vignes elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000028, "LATITUDE": 34.05532, "LONGITUDE": -118.23351, "STATION": "Union Station", "STOPNUMNEW": 80214.0, "PORTALNUM": 80214.3 }, "geometry": { "type": "Point", "coordinates": [ -118.23351, 34.05532 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Hill & Temple, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000029, "LATITUDE": 34.05554, "LONGITUDE": -118.24516, "STATION": "Civic Center", "STOPNUMNEW": 80213.0, "PORTALNUM": 80213.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24516, 34.05554 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Hill & Temple, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000029, "LATITUDE": 34.05522, "LONGITUDE": -118.24545, "STATION": "Civic Center", "STOPNUMNEW": 80213.0, "PORTALNUM": 80213.2 }, "geometry": { "type": "Point", "coordinates": [ -118.24545, 34.05522 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Hill & 1st", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000029, "LATITUDE": 34.05418, "LONGITUDE": -118.24706, "STATION": "Civic Center", "STOPNUMNEW": 80213.0, "PORTALNUM": 80213.3 }, "geometry": { "type": "Point", "coordinates": [ -118.24706, 34.05418 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Hill & 4th, NE", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000030, "LATITUDE": 34.0501, "LONGITUDE": -118.24989, "STATION": "Pershing Square", "STOPNUMNEW": 80212.0, "PORTALNUM": 80212.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24989, 34.0501 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Hill & 4th, NW", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000030, "LATITUDE": 34.05064, "LONGITUDE": -118.25052, "STATION": "Pershing Square", "STOPNUMNEW": 80212.0, "PORTALNUM": 80212.2 }, "geometry": { "type": "Point", "coordinates": [ -118.25052, 34.05064 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Hill & 5th, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000030, "LATITUDE": 34.04836, "LONGITUDE": -118.25148, "STATION": "Pershing Square", "STOPNUMNEW": 80212.0, "PORTALNUM": 80212.3 }, "geometry": { "type": "Point", "coordinates": [ -118.25148, 34.04836 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Hill & 5th, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000030, "LATITUDE": 34.04844, "LONGITUDE": -118.25171, "STATION": "Pershing Square", "STOPNUMNEW": 80212.0, "PORTALNUM": 80212.4 }, "geometry": { "type": "Point", "coordinates": [ -118.25171, 34.04844 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "7th & Figueroa, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000031, "LATITUDE": 34.04936, "LONGITUDE": -118.25966, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0, "PORTALNUM": 80211.1 }, "geometry": { "type": "Point", "coordinates": [ -118.25966, 34.04936 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "7th & Figueroa, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000031, "LATITUDE": 34.04916, "LONGITUDE": -118.25933, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0, "PORTALNUM": 80211.2 }, "geometry": { "type": "Point", "coordinates": [ -118.25933, 34.04916 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "7th & Flower, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000031, "LATITUDE": 34.0487, "LONGITUDE": -118.25856, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0, "PORTALNUM": 80211.3 }, "geometry": { "type": "Point", "coordinates": [ -118.25856, 34.0487 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "7th & Flower, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000031, "LATITUDE": 34.0489, "LONGITUDE": -118.25839, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0, "PORTALNUM": 80211.4 }, "geometry": { "type": "Point", "coordinates": [ -118.25839, 34.0489 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "7th & Hope", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000031, "LATITUDE": 34.04815, "LONGITUDE": -118.25774, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0, "PORTALNUM": 80211.5 }, "geometry": { "type": "Point", "coordinates": [ -118.25774, 34.04815 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 5.0, "PORTALNAME": "North entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000032, "LATITUDE": 34.05724, "LONGITUDE": -118.276001, "STATION": "Westlake \/ McArthur Park", "STOPNUMNEW": 80210.0, "PORTALNUM": 80210.1 }, "geometry": { "type": "Point", "coordinates": [ -118.276001, 34.05724 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 5.0, "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000032, "LATITUDE": 34.056943, "LONGITUDE": -118.276208, "STATION": "Westlake \/ McArthur Park", "STOPNUMNEW": 80210.0, "PORTALNUM": 80210.2 }, "geometry": { "type": "Point", "coordinates": [ -118.27621, 34.056943 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 5.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000032, "LATITUDE": 34.0569, "LONGITUDE": -118.275975, "STATION": "Westlake \/ McArthur Park", "STOPNUMNEW": 80210.0, "PORTALNUM": 80210.3 }, "geometry": { "type": "Point", "coordinates": [ -118.275975, 34.0569 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 6.0, "PORTALNAME": "Vermont entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000033, "LATITUDE": 34.06245, "LONGITUDE": -118.29092, "STATION": "Wilshire \/ Vermont", "STOPNUMNEW": 80209.0, "PORTALNUM": 80209.1 }, "geometry": { "type": "Point", "coordinates": [ -118.29092, 34.06245 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "DIR": null, "STNSEQ": 6.0, "PORTALNAME": "Shatto entrance", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000033, "LATITUDE": 34.0625, "LONGITUDE": -118.29028, "STATION": "Wilshire \/ Vermont", "STOPNUMNEW": 80209.0, "PORTALNUM": 80209.2 }, "geometry": { "type": "Point", "coordinates": [ -118.29028, 34.0625 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "DIR": null, "STNSEQ": 15.0, "PORTALNAME": "main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000034, "LATITUDE": 34.0614, "LONGITUDE": -118.30091, "STATION": "Wilshire \/ Normandie", "STOPNUMNEW": 80215.0, "PORTALNUM": 80215.1 }, "geometry": { "type": "Point", "coordinates": [ -118.30091, 34.0614 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "DIR": null, "STNSEQ": 15.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000034, "LATITUDE": 34.06157, "LONGITUDE": -118.30098, "STATION": "Wilshire \/ Normandie", "STOPNUMNEW": 80215.0, "PORTALNUM": 80215.2 }, "geometry": { "type": "Point", "coordinates": [ -118.30098, 34.06157 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "DIR": null, "STNSEQ": 16.0, "PORTALNAME": "main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000035, "LATITUDE": 34.06216, "LONGITUDE": -118.30883, "STATION": "Wilshire \/ Western", "STOPNUMNEW": 80216.0, "PORTALNUM": 80216.1 }, "geometry": { "type": "Point", "coordinates": [ -118.30883, 34.06216 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "DIR": null, "STNSEQ": 16.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000035, "LATITUDE": 34.06191, "LONGITUDE": -118.30876, "STATION": "Wilshire \/ Western", "STOPNUMNEW": 80216.0, "PORTALNUM": 80216.2 }, "geometry": { "type": "Point", "coordinates": [ -118.30876, 34.06191 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 7.0, "PORTALNAME": "Beverly entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "OLDSTOPNUM": 80000036, "LATITUDE": 34.0766, "LONGITUDE": -118.29191, "STATION": "Vermont \/ Beverly", "STOPNUMNEW": 80208.0, "PORTALNUM": 80208.1 }, "geometry": { "type": "Point", "coordinates": [ -118.29191, 34.0766 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Santa Monica entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000037, "LATITUDE": 34.0906, "LONGITUDE": -118.29203, "STATION": "Vermont \/ Santa Monica", "STOPNUMNEW": 80207.0, "PORTALNUM": 80207.1 }, "geometry": { "type": "Point", "coordinates": [ -118.29203, 34.0906 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Santa Monica elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000037, "LATITUDE": 34.09032, "LONGITUDE": -118.29191, "STATION": "Vermont \/ Santa Monica", "STOPNUMNEW": 80207.0, "PORTALNUM": 80207.2 }, "geometry": { "type": "Point", "coordinates": [ -118.29191, 34.09032 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Willow Brook entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000037, "LATITUDE": 34.0891, "LONGITUDE": -118.29194, "STATION": "Vermont \/ Santa Monica", "STOPNUMNEW": 80207.0, "PORTALNUM": 80207.3 }, "geometry": { "type": "Point", "coordinates": [ -118.29194, 34.0891 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Willow Brook elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000037, "LATITUDE": 34.08936, "LONGITUDE": -118.29198, "STATION": "Vermont \/ Santa Monica", "STOPNUMNEW": 80207.0, "PORTALNUM": 80207.4 }, "geometry": { "type": "Point", "coordinates": [ -118.29198, 34.08936 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "Sunset & Vt, NE main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "OLDSTOPNUM": 80000038, "LATITUDE": 34.09847, "LONGITUDE": -118.29148, "STATION": "Vermont \/ Sunset", "STOPNUMNEW": 80206.0, "PORTALNUM": 80206.1 }, "geometry": { "type": "Point", "coordinates": [ -118.29148, 34.09847 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "Sunset & Vt, NW", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000038, "LATITUDE": 34.09827, "LONGITUDE": -118.29205, "STATION": "Vermont \/ Sunset", "STOPNUMNEW": 80206.0, "PORTALNUM": 80206.2 }, "geometry": { "type": "Point", "coordinates": [ -118.29205, 34.09827 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 10.0, "PORTALNAME": "main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000039, "LATITUDE": 34.10153, "LONGITUDE": -118.30899, "STATION": "Hollywood \/ Western", "STOPNUMNEW": 80205.0, "PORTALNUM": 80205.1 }, "geometry": { "type": "Point", "coordinates": [ -118.30899, 34.10153 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 10.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000039, "LATITUDE": 34.10158, "LONGITUDE": -118.30858, "STATION": "Hollywood \/ Western", "STOPNUMNEW": 80205.0, "PORTALNUM": 80205.2 }, "geometry": { "type": "Point", "coordinates": [ -118.30858, 34.10158 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 11.0, "PORTALNAME": "main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000040, "LATITUDE": 34.10132, "LONGITUDE": -118.32573, "STATION": "Hollywood \/ Vine", "STOPNUMNEW": 80204.0, "PORTALNUM": 80204.1 }, "geometry": { "type": "Point", "coordinates": [ -118.32573, 34.10132 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 11.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000040, "LATITUDE": 34.10132, "LONGITUDE": -118.32557, "STATION": "Hollywood \/ Vine", "STOPNUMNEW": 80204.0, "PORTALNUM": 80204.2 }, "geometry": { "type": "Point", "coordinates": [ -118.32557, 34.10132 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 12.0, "PORTALNAME": "Hollywood & Highland", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "OLDSTOPNUM": 80000041, "LATITUDE": 34.1017, "LONGITUDE": -118.33927, "STATION": "Hollywood \/ Highland", "STOPNUMNEW": 80203.0, "PORTALNUM": 80203.1 }, "geometry": { "type": "Point", "coordinates": [ -118.33927, 34.1017 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "North entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000042, "LATITUDE": 34.13954, "LONGITUDE": -118.36244, "STATION": "Universal City", "STOPNUMNEW": 80202.0, "PORTALNUM": 80202.1 }, "geometry": { "type": "Point", "coordinates": [ -118.36244, 34.13954 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "North elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000042, "LATITUDE": 34.13942, "LONGITUDE": -118.36259, "STATION": "Universal City", "STOPNUMNEW": 80202.0, "PORTALNUM": 80202.2 }, "geometry": { "type": "Point", "coordinates": [ -118.36259, 34.13942 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "OLDSTOPNUM": 80000042, "LATITUDE": 34.1388, "LONGITUDE": -118.36265, "STATION": "Universal City", "STOPNUMNEW": 80202.0, "PORTALNUM": 80202.3 }, "geometry": { "type": "Point", "coordinates": [ -118.36265, 34.1388 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "South elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000042, "LATITUDE": 34.13896, "LONGITUDE": -118.36259, "STATION": "Universal City", "STOPNUMNEW": 80202.0, "PORTALNUM": 80202.4 }, "geometry": { "type": "Point", "coordinates": [ -118.36259, 34.13896 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 14.0, "PORTALNAME": "main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "OLDSTOPNUM": 80000043, "LATITUDE": 34.16879, "LONGITUDE": -118.37651, "STATION": "North Hollywood", "STOPNUMNEW": 80201.0, "PORTALNUM": 80201.1 }, "geometry": { "type": "Point", "coordinates": [ -118.37651, 34.16879 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "DIR": null, "STNSEQ": 14.0, "PORTALNAME": "Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "OLDSTOPNUM": 80000043, "LATITUDE": 34.16906, "LONGITUDE": -118.3768, "STATION": "North Hollywood", "STOPNUMNEW": 80201.0, "PORTALNUM": 80201.2 }, "geometry": { "type": "Point", "coordinates": [ -118.3768, 34.16906 ] } }
+
+]
+}
