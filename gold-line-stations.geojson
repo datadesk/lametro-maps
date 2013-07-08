@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 1.0, "OLDSTOPNUM": 80000090, "POINT_X": -118.081212, "POINT_Y": 34.147752, "STATION": "Sierra Madre Villa", "STOPNUMNEW": 80421.0 }, "geometry": { "type": "Point", "coordinates": [ -118.081212017078187, 34.147752196729272 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 2.0, "OLDSTOPNUM": 80000089, "POINT_X": -118.114348, "POINT_Y": 34.152417, "STATION": "Allen", "STOPNUMNEW": 80420.0 }, "geometry": { "type": "Point", "coordinates": [ -118.114347561554524, 34.152416818893293 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 3.0, "OLDSTOPNUM": 80000088, "POINT_X": -118.13139, "POINT_Y": 34.151806, "STATION": "Lake", "STOPNUMNEW": 80419.0 }, "geometry": { "type": "Point", "coordinates": [ -118.131389964736968, 34.15180582980809 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 4.0, "OLDSTOPNUM": 80000087, "POINT_X": -118.147512, "POINT_Y": 34.148356, "STATION": "Memorial Park", "STOPNUMNEW": 80418.0 }, "geometry": { "type": "Point", "coordinates": [ -118.147511592857384, 34.148356113917949 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 5.0, "OLDSTOPNUM": 80000086, "POINT_X": -118.148214, "POINT_Y": 34.14191, "STATION": "Del Mar", "STOPNUMNEW": 80417.0 }, "geometry": { "type": "Point", "coordinates": [ -118.148214279316733, 34.141909762092716 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 6.0, "OLDSTOPNUM": 80000085, "POINT_X": -118.148126, "POINT_Y": 34.133521, "STATION": "Fillmore", "STOPNUMNEW": 80416.0 }, "geometry": { "type": "Point", "coordinates": [ -118.148125664695257, 34.133521154070849 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 7.0, "OLDSTOPNUM": 80000084, "POINT_X": -118.157886, "POINT_Y": 34.115186, "STATION": "South Pasadena", "STOPNUMNEW": 80415.0 }, "geometry": { "type": "Point", "coordinates": [ -118.157886155001322, 34.115185929765055 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 8.0, "OLDSTOPNUM": 80000083, "POINT_X": -118.192606, "POINT_Y": 34.111179, "STATION": "Highland Park", "STOPNUMNEW": 80414.0 }, "geometry": { "type": "Point", "coordinates": [ -118.192605685753563, 34.111179283289175 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 9.0, "OLDSTOPNUM": 80000082, "POINT_X": -118.206712, "POINT_Y": 34.098243, "STATION": "Southwest Museum", "STOPNUMNEW": 80413.0 }, "geometry": { "type": "Point", "coordinates": [ -118.206712444581058, 34.098242682527157 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 10.0, "OLDSTOPNUM": 80000081, "POINT_X": -118.213213, "POINT_Y": 34.087227, "STATION": "Heritage Square \/ Arroyo", "STOPNUMNEW": 80412.0 }, "geometry": { "type": "Point", "coordinates": [ -118.213213020356875, 34.087226998740171 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 11.0, "OLDSTOPNUM": 80000080, "POINT_X": -118.220429, "POINT_Y": 34.080949, "STATION": "Lincoln Heights \/ Cypress Park", "STOPNUMNEW": 80411.0 }, "geometry": { "type": "Point", "coordinates": [ -118.220429435193125, 34.080949008150654 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 12.0, "OLDSTOPNUM": 80000079, "POINT_X": -118.23584, "POINT_Y": 34.063861, "STATION": "Chinatown", "STOPNUMNEW": 80410.0 }, "geometry": { "type": "Point", "coordinates": [ -118.235840498817538, 34.063860517706509 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 13.0, "OLDSTOPNUM": 80000078, "POINT_X": -118.234759, "POINT_Y": 34.056061, "STATION": "Union Station", "STOPNUMNEW": 80409.0 }, "geometry": { "type": "Point", "coordinates": [ -118.234759041951833, 34.056061427676603 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 14.0, "OLDSTOPNUM": 80000091, "POINT_X": -118.237901, "POINT_Y": 34.0501, "STATION": "Little Tokyo \/ Arts District", "STOPNUMNEW": 80408.0 }, "geometry": { "type": "Point", "coordinates": [ -118.237900895099671, 34.05010002384406 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 15.0, "OLDSTOPNUM": 80000092, "POINT_X": -118.22594, "POINT_Y": 34.047634, "STATION": "Pico \/ Aliso", "STOPNUMNEW": 80407.0 }, "geometry": { "type": "Point", "coordinates": [ -118.225940369435875, 34.047633821260057 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 16.0, "OLDSTOPNUM": 80000093, "POINT_X": -118.219648, "POINT_Y": 34.047215, "STATION": "Mariachi Plaza \/ Boyle Heights", "STOPNUMNEW": 80406.0 }, "geometry": { "type": "Point", "coordinates": [ -118.219648000136416, 34.047215082946664 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 17.0, "OLDSTOPNUM": 80000094, "POINT_X": -118.210061, "POINT_Y": 34.043747, "STATION": "Soto", "STOPNUMNEW": 80405.0 }, "geometry": { "type": "Point", "coordinates": [ -118.210060631806357, 34.043746690236638 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 18.0, "OLDSTOPNUM": 80000095, "POINT_X": -118.192182, "POINT_Y": 34.0343, "STATION": "Indiana", "STOPNUMNEW": 80404.0 }, "geometry": { "type": "Point", "coordinates": [ -118.192182417168425, 34.034299739517998 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 19.0, "OLDSTOPNUM": 80000096, "POINT_X": -118.16814, "POINT_Y": 34.0333, "STATION": "Maravilla", "STOPNUMNEW": 80403.0 }, "geometry": { "type": "Point", "coordinates": [ -118.168139546273849, 34.03329981347531 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 20.0, "OLDSTOPNUM": 80000097, "POINT_X": -118.161206, "POINT_Y": 34.033364, "STATION": "East LA Civic Center", "STOPNUMNEW": 80402.0 }, "geometry": { "type": "Point", "coordinates": [ -118.16120644267717, 34.033364082839363 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 21.0, "OLDSTOPNUM": 80000098, "POINT_X": -118.154469, "POINT_Y": 34.033398, "STATION": "Atlantic", "STOPNUMNEW": 80401.0 }, "geometry": { "type": "Point", "coordinates": [ -118.154468809454869, 34.033398039101108 ] } }
+
+]
+}

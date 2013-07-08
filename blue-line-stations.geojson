@@ -1,0 +1,50 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "North", "STNSEQ": 22, "STOPNUM": 80000003, "POINT_X": -118.1937, "POINT_Y": 33.772258, "STATION": "Pacific", "STOPNUMNEW": 80102.0 }, "geometry": { "type": "Point", "coordinates": [ -118.193699894, 33.772258442 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 21, "STOPNUM": 80000001, "POINT_X": -118.192921, "POINT_Y": 33.768071, "STATION": "Long Beach Transit Mall", "STOPNUMNEW": 80101.0 }, "geometry": { "type": "Point", "coordinates": [ -118.192921451, 33.768070989 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 20, "STOPNUM": 80000002, "POINT_X": -118.189362, "POINT_Y": 33.76874, "STATION": "1st Street", "STOPNUMNEW": 80153.0 }, "geometry": { "type": "Point", "coordinates": [ -118.189362477977852, 33.76873976484049 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 19, "STOPNUM": 80000004, "POINT_X": -118.189412, "POINT_Y": 33.773598, "STATION": "5th Street", "STOPNUMNEW": 80154.0 }, "geometry": { "type": "Point", "coordinates": [ -118.189412248204775, 33.773597881327916 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 18, "STOPNUM": 80000005, "POINT_X": -118.189384, "POINT_Y": 33.78183, "STATION": "Anaheim", "STOPNUMNEW": 80105.0 }, "geometry": { "type": "Point", "coordinates": [ -118.189384411535812, 33.781829997937194 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 17, "STOPNUM": 80000006, "POINT_X": -118.189382, "POINT_Y": 33.78909, "STATION": "PCH", "STOPNUMNEW": 80106.0 }, "geometry": { "type": "Point", "coordinates": [ -118.189381983660169, 33.789089997659119 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 16, "STOPNUM": 80000007, "POINT_X": -118.189834, "POINT_Y": 33.807079, "STATION": "Willow", "STOPNUMNEW": 80107.0 }, "geometry": { "type": "Point", "coordinates": [ -118.189833991341615, 33.807078868348505 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 15, "STOPNUM": 80000008, "POINT_X": -118.19609, "POINT_Y": 33.819866, "STATION": "Wardlow", "STOPNUMNEW": 80108.0 }, "geometry": { "type": "Point", "coordinates": [ -118.196090067445851, 33.819865583758961 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 14, "STOPNUM": 80000009, "POINT_X": -118.211017, "POINT_Y": 33.848222, "STATION": "Del Amo", "STOPNUMNEW": 80109.0 }, "geometry": { "type": "Point", "coordinates": [ -118.211016883105884, 33.848221826373106 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 13, "STOPNUM": 80000010, "POINT_X": -118.222518, "POINT_Y": 33.876077, "STATION": "Artesia", "STOPNUMNEW": 80110.0 }, "geometry": { "type": "Point", "coordinates": [ -118.222518267573534, 33.876077008837072 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 12, "STOPNUM": 80000011, "POINT_X": -118.224249, "POINT_Y": 33.89749, "STATION": "Compton", "STOPNUMNEW": 80111.0 }, "geometry": { "type": "Point", "coordinates": [ -118.224249441, 33.897490285 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 11, "STOPNUM": 80000012, "POINT_X": -118.237555, "POINT_Y": 33.928048, "STATION": "Willowbrook (Rosa Parks)", "STOPNUMNEW": 80112.0 }, "geometry": { "type": "Point", "coordinates": [ -118.237554758716229, 33.928047908338016 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 10, "STOPNUM": 80000013, "POINT_X": -118.243159, "POINT_Y": 33.94222, "STATION": "103rd Street \/ Watts Towers", "STOPNUMNEW": 80113.0 }, "geometry": { "type": "Point", "coordinates": [ -118.243159394437754, 33.942219710556209 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 9, "STOPNUM": 80000014, "POINT_X": -118.243205, "POINT_Y": 33.959611, "STATION": "Firestone", "STOPNUMNEW": 80114.0 }, "geometry": { "type": "Point", "coordinates": [ -118.243205392305029, 33.959610572228698 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 8, "STOPNUM": 80000015, "POINT_X": -118.243271, "POINT_Y": 33.97374, "STATION": "Florence", "STOPNUMNEW": 80115.0 }, "geometry": { "type": "Point", "coordinates": [ -118.243271357501783, 33.973739716239628 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 7, "STOPNUM": 80000016, "POINT_X": -118.243385, "POINT_Y": 33.988759, "STATION": "Slauson", "STOPNUMNEW": 80116.0 }, "geometry": { "type": "Point", "coordinates": [ -118.243385046, 33.988758627 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 6, "STOPNUM": 80000017, "POINT_X": -118.243303, "POINT_Y": 34.00292, "STATION": "Vernon", "STOPNUMNEW": 80117.0 }, "geometry": { "type": "Point", "coordinates": [ -118.2433031, 34.00292001 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 5, "STOPNUM": 80000018, "POINT_X": -118.243084, "POINT_Y": 34.01965, "STATION": "Washington", "STOPNUMNEW": 80118.0 }, "geometry": { "type": "Point", "coordinates": [ -118.243083796190263, 34.019650475866811 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 4, "STOPNUM": 80000019, "POINT_X": -118.255505, "POINT_Y": 34.026807, "STATION": "San Pedro", "STOPNUMNEW": 80119.0 }, "geometry": { "type": "Point", "coordinates": [ -118.255505155942828, 34.026806642404196 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 2, "STOPNUM": 80000021, "POINT_X": -118.266118, "POINT_Y": 34.040735, "STATION": "Pico", "STOPNUMNEW": 80121.0 }, "geometry": { "type": "Point", "coordinates": [ -118.266117785596407, 34.040735491796006 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1, "STOPNUM": 80000022, "POINT_X": -118.258822, "POINT_Y": 34.04861, "STATION": "Metro Center", "STOPNUMNEW": 80122.0 }, "geometry": { "type": "Point", "coordinates": [ -118.258822098559918, 34.048610350906856 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 3, "STOPNUM": 80000020, "POINT_X": -118.269333, "POINT_Y": 34.033155, "STATION": "Grand", "STOPNUMNEW": 80120.0 }, "geometry": { "type": "Point", "coordinates": [ -118.26933291246236, 34.03315454821422 ] } }
+
+]
+}
