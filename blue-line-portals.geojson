@@ -1,0 +1,78 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "7th & Figueroa, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Yes", "STOPNUM": 80000022, "LATITUDE": 34.04936, "LONGITUDE": -118.25966, "STATION": "Metro Center", "STOPNUMNEW": 80122.0, "PORTALNUM": 80122.1 }, "geometry": { "type": "Point", "coordinates": [ -118.25966, 34.04936 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "7th & Figueroa, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "STOPNUM": 80000022, "LATITUDE": 34.04916, "LONGITUDE": -118.25933, "STATION": "Metro Center", "STOPNUMNEW": 80122.0, "PORTALNUM": 80122.2 }, "geometry": { "type": "Point", "coordinates": [ -118.25933, 34.04916 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "7th & Flower, main", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "up", "STOPNUM": 80000022, "LATITUDE": 34.0487, "LONGITUDE": -118.25856, "STATION": "Metro Center", "STOPNUMNEW": 80122.0, "PORTALNUM": 80122.3 }, "geometry": { "type": "Point", "coordinates": [ -118.25856, 34.0487 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "7th & Flower, elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "Yes", "ESCALATOR": null, "STOPNUM": 80000022, "LATITUDE": 34.0489, "LONGITUDE": -118.25839, "STATION": "Metro Center", "STOPNUMNEW": 80122.0, "PORTALNUM": 80122.4 }, "geometry": { "type": "Point", "coordinates": [ -118.25839, 34.0489 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "7th & Hope", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "up", "STOPNUM": 80000022, "LATITUDE": 34.04815, "LONGITUDE": -118.25774, "STATION": "Metro Center", "STOPNUMNEW": 80122.0, "PORTALNUM": 80122.5 }, "geometry": { "type": "Point", "coordinates": [ -118.25774, 34.04815 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Flower & Pico", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000021, "LATITUDE": 34.04033, "LONGITUDE": -118.26637, "STATION": "Pico", "STOPNUMNEW": 80121.0, "PORTALNUM": 80121.1 }, "geometry": { "type": "Point", "coordinates": [ -118.26637, 34.04033 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Flower & 12th", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000021, "LATITUDE": 34.04104, "LONGITUDE": -118.26573, "STATION": "Pico", "STOPNUMNEW": 80121.0, "PORTALNUM": 80121.2 }, "geometry": { "type": "Point", "coordinates": [ -118.26573, 34.04104 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Washington & Grand", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000020, "LATITUDE": 34.03276, "LONGITUDE": -118.26847, "STATION": "Grand", "STOPNUMNEW": 80120.0, "PORTALNUM": 80120.1 }, "geometry": { "type": "Point", "coordinates": [ -118.26847, 34.03276 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Washington & Hope", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000020, "LATITUDE": 34.03333, "LONGITUDE": -118.26976, "STATION": "Grand", "STOPNUMNEW": 80120.0, "PORTALNUM": 80120.2 }, "geometry": { "type": "Point", "coordinates": [ -118.26976, 34.03333 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 4.0, "PORTALNAME": "Washington & San Pedro", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000019, "LATITUDE": 34.02714, "LONGITUDE": -118.2562, "STATION": "San Pedro", "STOPNUMNEW": 80119.0, "PORTALNUM": 80119.1 }, "geometry": { "type": "Point", "coordinates": [ -118.2562, 34.02714 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 5.0, "PORTALNAME": "Long Beach & Washington", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000018, "LATITUDE": 34.02047, "LONGITUDE": -118.24309, "STATION": "Washington", "STOPNUMNEW": 80118.0, "PORTALNUM": 80118.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24309, 34.02047 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 6.0, "PORTALNAME": "Long Beach & Vernon", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000017, "LATITUDE": 34.00378, "LONGITUDE": -118.24329, "STATION": "Vernon", "STOPNUMNEW": 80117.0, "PORTALNUM": 80117.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24329, 34.00378 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 7.0, "PORTALNAME": "North entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "STOPNUM": 80000016, "LATITUDE": 33.98909, "LONGITUDE": -118.24345, "STATION": "Slauson", "STOPNUMNEW": 80116.0, "PORTALNUM": 80116.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24345, 33.98909 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 7.0, "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000016, "LATITUDE": 33.98835, "LONGITUDE": -118.24334, "STATION": "Slauson", "STOPNUMNEW": 80116.0, "PORTALNUM": 80116.2 }, "geometry": { "type": "Point", "coordinates": [ -118.24334, 33.98835 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Florence & Graham", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000015, "LATITUDE": 33.97461, "LONGITUDE": -118.24326, "STATION": "Florence", "STOPNUMNEW": 80115.0, "PORTALNUM": 80115.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24326, 33.97461 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "North entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000014, "LATITUDE": 33.95971, "LONGITUDE": -118.24318, "STATION": "Firestone", "STOPNUMNEW": 80114.0, "PORTALNUM": 80114.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24318, 33.95971 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "STOPNUM": 80000014, "LATITUDE": 33.95948, "LONGITUDE": -118.24318, "STATION": "Firestone", "STOPNUMNEW": 80114.0, "PORTALNUM": 80114.2 }, "geometry": { "type": "Point", "coordinates": [ -118.24318, 33.95948 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 10.0, "PORTALNAME": "103rd & Graham", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000013, "LATITUDE": 33.94304, "LONGITUDE": -118.24315, "STATION": "103rd Street \/ Watts Towers", "STOPNUMNEW": 80113.0, "PORTALNUM": 80113.1 }, "geometry": { "type": "Point", "coordinates": [ -118.24315, 33.94304 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 11.0, "PORTALNAME": "Willowbrook ent.", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000012, "LATITUDE": 33.92854, "LONGITUDE": -118.23779, "STATION": "Willowbrook (Rosa Parks)", "STOPNUMNEW": 80112.0, "PORTALNUM": 80112.1 }, "geometry": { "type": "Point", "coordinates": [ -118.23779, 33.92854 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 12.0, "PORTALNAME": "Main entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000011, "LATITUDE": 33.89812, "LONGITUDE": -118.22416, "STATION": "Compton", "STOPNUMNEW": 80111.0, "PORTALNUM": 80111.1 }, "geometry": { "type": "Point", "coordinates": [ -118.22416, 33.89812 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "Bus Plaza side", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000010, "LATITUDE": 33.8766, "LONGITUDE": -118.22307, "STATION": "Artesia", "STOPNUMNEW": 80110.0, "PORTALNUM": 80110.1 }, "geometry": { "type": "Point", "coordinates": [ -118.22307, 33.8766 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 14.0, "PORTALNAME": "Del Amo & Santa Fe", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "STOPNUM": 80000009, "LATITUDE": 33.84773, "LONGITUDE": -118.2108, "STATION": "Del Amo", "STOPNUMNEW": 80109.0, "PORTALNUM": 80109.1 }, "geometry": { "type": "Point", "coordinates": [ -118.2108, 33.84773 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 15.0, "PORTALNAME": "Pacific & Wardlow", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000008, "LATITUDE": 33.81918, "LONGITUDE": -118.19563, "STATION": "Wardlow", "STOPNUMNEW": 80108.0, "PORTALNUM": 80108.1 }, "geometry": { "type": "Point", "coordinates": [ -118.19563, 33.81918 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 15.0, "PORTALNAME": "North entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000008, "LATITUDE": 33.82027, "LONGITUDE": -118.19636, "STATION": "Wardlow", "STOPNUMNEW": 80108.0, "PORTALNUM": 80108.2 }, "geometry": { "type": "Point", "coordinates": [ -118.19636, 33.82027 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 16.0, "PORTALNAME": "Long Beach & Willow", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000007, "LATITUDE": 33.8065, "LONGITUDE": -118.18957, "STATION": "Willow", "STOPNUMNEW": 80107.0, "PORTALNUM": 80107.1 }, "geometry": { "type": "Point", "coordinates": [ -118.18957, 33.8065 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 17.0, "PORTALNAME": "Long Beach & Pacific Coast", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000006, "LATITUDE": 33.78971, "LONGITUDE": -118.18937, "STATION": "PCH", "STOPNUMNEW": 80106.0, "PORTALNUM": 80106.1 }, "geometry": { "type": "Point", "coordinates": [ -118.18937, 33.78971 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 18.0, "PORTALNAME": "Long Beach & Anaheim", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000005, "LATITUDE": 33.78245, "LONGITUDE": -118.18937, "STATION": "Anaheim", "STOPNUMNEW": 80105.0, "PORTALNUM": 80105.1 }, "geometry": { "type": "Point", "coordinates": [ -118.18937, 33.78245 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 18.0, "PORTALNAME": "Long Beach & 12th", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000005, "LATITUDE": 33.78135, "LONGITUDE": -118.18939, "STATION": "Anaheim", "STOPNUMNEW": 80105.0, "PORTALNUM": 80105.2 }, "geometry": { "type": "Point", "coordinates": [ -118.18939, 33.78135 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 19.0, "PORTALNAME": "Long Beach & 5th", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000004, "LATITUDE": 33.77305, "LONGITUDE": -118.18935, "STATION": "5th Street", "STOPNUMNEW": 80154.0, "PORTALNUM": 80154.1 }, "geometry": { "type": "Point", "coordinates": [ -118.18935, 33.77305 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 19.0, "PORTALNAME": "Long Beach & 6th", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000004, "LATITUDE": 33.77401, "LONGITUDE": -118.18936, "STATION": "5th Street", "STOPNUMNEW": 80154.0, "PORTALNUM": 80154.2 }, "geometry": { "type": "Point", "coordinates": [ -118.18936, 33.77401 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 20.0, "PORTALNAME": "Long Beach & 1st", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000002, "LATITUDE": 33.76827, "LONGITUDE": -118.18941, "STATION": "1st Street", "STOPNUMNEW": 80153.0, "PORTALNUM": 80153.1 }, "geometry": { "type": "Point", "coordinates": [ -118.18941, 33.76827 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "South", "STNSEQ": 20.0, "PORTALNAME": "Long Beach & Broadway", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000002, "LATITUDE": 33.76915, "LONGITUDE": -118.18938, "STATION": "1st Street", "STOPNUMNEW": 80153.0, "PORTALNUM": 80153.2 }, "geometry": { "type": "Point", "coordinates": [ -118.18938, 33.76915 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 21.0, "PORTALNAME": "1st & Pine", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000001, "LATITUDE": 33.76804, "LONGITUDE": -118.1925, "STATION": "Long Beach Transit Mall", "STOPNUMNEW": 80101.0, "PORTALNUM": 80101.1 }, "geometry": { "type": "Point", "coordinates": [ -118.1925, 33.76804 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": null, "STNSEQ": 21.0, "PORTALNAME": "1st & Pacific", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000001, "LATITUDE": 33.76805, "LONGITUDE": -118.1935, "STATION": "Long Beach Transit Mall", "STOPNUMNEW": 80101.0, "PORTALNUM": 80101.2 }, "geometry": { "type": "Point", "coordinates": [ -118.1935, 33.76805 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "North", "STNSEQ": 22.0, "PORTALNAME": "Pacific & 4th", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000003, "LATITUDE": 33.77186, "LONGITUDE": -118.19373, "STATION": "Pacific", "STOPNUMNEW": 80102.0, "PORTALNUM": 80102.1 }, "geometry": { "type": "Point", "coordinates": [ -118.19373, 33.77186 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Blue", "DIR": "North", "STNSEQ": 22.0, "PORTALNAME": "Pacific & 5th", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "STOPNUM": 80000003, "LATITUDE": 33.77282, "LONGITUDE": -118.19373, "STATION": "Pacific", "STOPNUMNEW": 80102.0, "PORTALNUM": 80102.2 }, "geometry": { "type": "Point", "coordinates": [ -118.19373, 33.77282 ] } }
+
+]
+}

@@ -1,0 +1,84 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 1.0, "PORTALNAME": "Main entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "LATITUDE": 34.1487, "LONGITUDE": -118.08163, "OLDSTOPNUM": 80000090, "STATION": "Sierra Madre Villa", "STOPNUMNEW": 80421.0, "PORTALNUM": 80421.1 }, "geometry": { "type": "Point", "coordinates": [ -118.08163, 34.1487 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 2.0, "PORTALNAME": "Main entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.15242, "LONGITUDE": -118.11352, "OLDSTOPNUM": 80000089, "STATION": "Allen", "STOPNUMNEW": 80420.0, "PORTALNUM": 80420.1 }, "geometry": { "type": "Point", "coordinates": [ -118.11352, 34.15242 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Lake East entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.15178, "LONGITUDE": -118.13205, "OLDSTOPNUM": 80000088, "STATION": "Lake", "STOPNUMNEW": 80419.0, "PORTALNUM": 80419.1 }, "geometry": { "type": "Point", "coordinates": [ -118.13205, 34.15178 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 3.0, "PORTALNAME": "Lake West entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.1518, "LONGITUDE": -118.13261, "OLDSTOPNUM": 80000088, "STATION": "Lake", "STOPNUMNEW": 80419.0, "PORTALNUM": 80419.2 }, "geometry": { "type": "Point", "coordinates": [ -118.13261, 34.1518 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 4.0, "PORTALNAME": "East entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.14769, "LONGITUDE": -118.14776, "OLDSTOPNUM": 80000087, "STATION": "Memorial Park", "STOPNUMNEW": 80418.0, "PORTALNUM": 80418.1 }, "geometry": { "type": "Point", "coordinates": [ -118.14776, 34.14769 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 4.0, "PORTALNAME": "West entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.14774, "LONGITUDE": -118.1479, "OLDSTOPNUM": 80000087, "STATION": "Memorial Park", "STOPNUMNEW": 80418.0, "PORTALNUM": 80418.2 }, "geometry": { "type": "Point", "coordinates": [ -118.1479, 34.14774 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 5.0, "PORTALNAME": "Central Park entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.14143, "LONGITUDE": -118.14829, "OLDSTOPNUM": 80000086, "STATION": "Del Mar", "STOPNUMNEW": 80417.0, "PORTALNUM": 80417.1 }, "geometry": { "type": "Point", "coordinates": [ -118.14829, 34.14143 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 5.0, "PORTALNAME": "Cordova entrance", "RAMP": "Yes", "STAIR": "No", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.14143, "LONGITUDE": -118.14812, "OLDSTOPNUM": 80000086, "STATION": "Del Mar", "STOPNUMNEW": 80417.0, "PORTALNUM": 80417.2 }, "geometry": { "type": "Point", "coordinates": [ -118.14812, 34.14143 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 6.0, "PORTALNAME": "Fillmore entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.13291, "LONGITUDE": -118.1481, "OLDSTOPNUM": 80000085, "STATION": "Fillmore", "STOPNUMNEW": 80416.0, "PORTALNUM": 80416.1 }, "geometry": { "type": "Point", "coordinates": [ -118.1481, 34.13291 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 7.0, "PORTALNAME": "Mission entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.1155, "LONGITUDE": -118.1574, "OLDSTOPNUM": 80000084, "STATION": "South Pasadena", "STOPNUMNEW": 80415.0, "PORTALNUM": 80415.1 }, "geometry": { "type": "Point", "coordinates": [ -118.1574, 34.1155 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 7.0, "PORTALNAME": "El Centro entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.1148, "LONGITUDE": -118.1582, "OLDSTOPNUM": 80000084, "STATION": "South Pasadena", "STOPNUMNEW": 80415.0, "PORTALNUM": 80415.2 }, "geometry": { "type": "Point", "coordinates": [ -118.1582, 34.1148 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 7.0, "PORTALNAME": "Mission entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.11564, "LONGITUDE": -118.1575, "OLDSTOPNUM": 80000084, "STATION": "South Pasadena", "STOPNUMNEW": 80415.0, "PORTALNUM": 80415.3 }, "geometry": { "type": "Point", "coordinates": [ -118.1575, 34.11564 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 7.0, "PORTALNAME": "El Centro entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.1148, "LONGITUDE": -118.1584, "OLDSTOPNUM": 80000084, "STATION": "South Pasadena", "STOPNUMNEW": 80415.0, "PORTALNUM": 80415.4 }, "geometry": { "type": "Point", "coordinates": [ -118.1584, 34.1148 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Ave 59 entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.11159, "LONGITUDE": -118.19175, "OLDSTOPNUM": 80000083, "STATION": "Highland Park", "STOPNUMNEW": 80414.0, "PORTALNUM": 80414.1 }, "geometry": { "type": "Point", "coordinates": [ -118.19175, 34.11159 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 8.0, "PORTALNAME": "Ave 57 entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.1107, "LONGITUDE": -118.19356, "OLDSTOPNUM": 80000083, "STATION": "Highland Park", "STOPNUMNEW": 80414.0, "PORTALNUM": 80414.2 }, "geometry": { "type": "Point", "coordinates": [ -118.19356, 34.1107 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "Figueroa entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.09833, "LONGITUDE": -118.20589, "OLDSTOPNUM": 80000082, "STATION": "Southwest Museum", "STOPNUMNEW": 80413.0, "PORTALNUM": 80413.1 }, "geometry": { "type": "Point", "coordinates": [ -118.20589, 34.09833 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "Marmion entrance, ramp", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.09864, "LONGITUDE": -118.20622, "OLDSTOPNUM": 80000082, "STATION": "Southwest Museum", "STOPNUMNEW": 80413.0, "PORTALNUM": 80413.2 }, "geometry": { "type": "Point", "coordinates": [ -118.20622, 34.09864 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 9.0, "PORTALNAME": "Marmion entrance, stairs", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.09882, "LONGITUDE": -118.20598, "OLDSTOPNUM": 80000082, "STATION": "Southwest Museum", "STOPNUMNEW": 80413.0, "PORTALNUM": 80413.3 }, "geometry": { "type": "Point", "coordinates": [ -118.20598, 34.09882 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 10.0, "PORTALNAME": "East entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.08749, "LONGITUDE": -118.21273, "OLDSTOPNUM": 80000081, "STATION": "Heritage Square \/ Arroyo", "STOPNUMNEW": 80412.0, "PORTALNUM": 80412.1 }, "geometry": { "type": "Point", "coordinates": [ -118.21273, 34.08749 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 10.0, "PORTALNAME": "West entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.08771, "LONGITUDE": -118.21284, "OLDSTOPNUM": 80000081, "STATION": "Heritage Square \/ Arroyo", "STOPNUMNEW": 80412.0, "PORTALNUM": 80412.2 }, "geometry": { "type": "Point", "coordinates": [ -118.21284, 34.08771 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "North", "STNSEQ": 11.0, "PORTALNAME": "East entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.08113, "LONGITUDE": -118.2199, "OLDSTOPNUM": 80000080, "STATION": "Lincoln Heights \/ Cypress Park", "STOPNUMNEW": 80411.0, "PORTALNUM": 80411.1 }, "geometry": { "type": "Point", "coordinates": [ -118.2199, 34.08113 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": "South", "STNSEQ": 11.0, "PORTALNAME": "West entrance", "RAMP": "Yes", "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.08146, "LONGITUDE": -118.22015, "OLDSTOPNUM": 80000080, "STATION": "Lincoln Heights \/ Cypress Park", "STOPNUMNEW": 80411.0, "PORTALNUM": 80411.2 }, "geometry": { "type": "Point", "coordinates": [ -118.22015, 34.08146 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 12.0, "PORTALNAME": "Northeast entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.06399, "LONGITUDE": -118.23573, "OLDSTOPNUM": 80000079, "STATION": "Chinatown", "STOPNUMNEW": 80410.0, "PORTALNUM": 80410.1 }, "geometry": { "type": "Point", "coordinates": [ -118.23573, 34.06399 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 12.0, "PORTALNAME": "Northwest entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": null, "ESCALATOR": "Up", "LATITUDE": 34.06379, "LONGITUDE": -118.23605, "OLDSTOPNUM": 80000079, "STATION": "Chinatown", "STOPNUMNEW": 80410.0, "PORTALNUM": 80410.2 }, "geometry": { "type": "Point", "coordinates": [ -118.23605, 34.06379 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 12.0, "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.0634, "LONGITUDE": -118.23596, "OLDSTOPNUM": 80000079, "STATION": "Chinatown", "STOPNUMNEW": 80410.0, "PORTALNUM": 80410.3 }, "geometry": { "type": "Point", "coordinates": [ -118.23596, 34.0634 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 13.0, "PORTALNAME": "Tunnel entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": null, "LATITUDE": 34.05584, "LONGITUDE": -118.2348, "OLDSTOPNUM": 80000078, "STATION": "Union Station", "STOPNUMNEW": 80409.0, "PORTALNUM": 80409.1 }, "geometry": { "type": "Point", "coordinates": [ -118.2348, 34.05584 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 14.0, "PORTALNAME": "Temple & Alameda entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.05063, "LONGITUDE": -118.23781, "OLDSTOPNUM": 80000091, "STATION": "Little Tokyo \/ Arts District", "STOPNUMNEW": 80408.0, "PORTALNUM": 80408.1 }, "geometry": { "type": "Point", "coordinates": [ -118.23781, 34.05063 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 14.0, "PORTALNAME": "1st & Alameda entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.04937, "LONGITUDE": -118.23786, "OLDSTOPNUM": 80000091, "STATION": "Little Tokyo \/ Arts District", "STOPNUMNEW": 80408.0, "PORTALNUM": 80408.2 }, "geometry": { "type": "Point", "coordinates": [ -118.23786, 34.04937 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 15.0, "PORTALNAME": "Utah St entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.04763, "LONGITUDE": -118.22541, "OLDSTOPNUM": 80000092, "STATION": "Pico \/ Aliso", "STOPNUMNEW": 80407.0, "PORTALNUM": 80407.1 }, "geometry": { "type": "Point", "coordinates": [ -118.22541, 34.04763 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 16.0, "PORTALNAME": "Main entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "LATITUDE": 34.04744, "LONGITUDE": -118.21924, "OLDSTOPNUM": 80000093, "STATION": "Mariachi Plaza \/ Boyle Heights", "STOPNUMNEW": 80406.0, "PORTALNUM": 80406.1 }, "geometry": { "type": "Point", "coordinates": [ -118.21924, 34.04744 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 17.0, "PORTALNAME": "Main entrance", "RAMP": null, "STAIR": "Yes", "ELEVATOR": "Yes", "ESCALATOR": "Yes", "LATITUDE": 34.04364, "LONGITUDE": -118.21019, "OLDSTOPNUM": 80000094, "STATION": "Soto", "STOPNUMNEW": 80405.0, "PORTALNUM": 80405.1 }, "geometry": { "type": "Point", "coordinates": [ -118.21019, 34.04364 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 18.0, "PORTALNAME": "Gleason entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03491, "LONGITUDE": -118.19218, "OLDSTOPNUM": 80000095, "STATION": "Indiana", "STOPNUMNEW": 80404.0, "PORTALNUM": 80404.1 }, "geometry": { "type": "Point", "coordinates": [ -118.19218, 34.03491 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 18.0, "PORTALNAME": "3rd Street entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.0336, "LONGITUDE": -118.19218, "OLDSTOPNUM": 80000095, "STATION": "Indiana", "STOPNUMNEW": 80404.0, "PORTALNUM": 80404.2 }, "geometry": { "type": "Point", "coordinates": [ -118.19218, 34.0336 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 19.0, "PORTALNAME": "Ford Bl entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.0333, "LONGITUDE": -118.16891, "OLDSTOPNUM": 80000096, "STATION": "Maravilla", "STOPNUMNEW": 80403.0, "PORTALNUM": 80403.1 }, "geometry": { "type": "Point", "coordinates": [ -118.16891, 34.0333 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 19.0, "PORTALNAME": "McDonnell Av entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03333, "LONGITUDE": -118.1671, "OLDSTOPNUM": 80000096, "STATION": "Maravilla", "STOPNUMNEW": 80403.0, "PORTALNUM": 80403.2 }, "geometry": { "type": "Point", "coordinates": [ -118.1671, 34.03333 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 20.0, "PORTALNAME": "Mednick entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03338, "LONGITUDE": -118.1619, "OLDSTOPNUM": 80000097, "STATION": "East LA Civic Center", "STOPNUMNEW": 80402.0, "PORTALNUM": 80402.1 }, "geometry": { "type": "Point", "coordinates": [ -118.1619, 34.03338 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 20.0, "PORTALNAME": "Civic Center Way entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03339, "LONGITUDE": -118.16026, "OLDSTOPNUM": 80000097, "STATION": "East LA Civic Center", "STOPNUMNEW": 80402.0, "PORTALNUM": 80402.2 }, "geometry": { "type": "Point", "coordinates": [ -118.16026, 34.03339 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 21.0, "PORTALNAME": "Pomona & Beverly entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03342, "LONGITUDE": -118.15531, "OLDSTOPNUM": 80000098, "STATION": "Atlantic", "STOPNUMNEW": 80401.0, "PORTALNUM": 80401.1 }, "geometry": { "type": "Point", "coordinates": [ -118.15531, 34.03342 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Gold", "DIR": null, "STNSEQ": 21.0, "PORTALNAME": "Pomona & Atlantic entrance", "RAMP": "Yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "LATITUDE": 34.03337, "LONGITUDE": -118.15295, "OLDSTOPNUM": 80000098, "STATION": "Atlantic", "STOPNUMNEW": 80401.0, "PORTALNUM": 80401.2 }, "geometry": { "type": "Point", "coordinates": [ -118.15295, 34.03337 ] } }
+
+]
+}

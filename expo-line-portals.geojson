@@ -1,0 +1,62 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 1.0, "PORTALNAME": "East ent.", "LATITUDE": 34.027837, "LONGITUDE": -118.388471, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Culver City", "OLDSTOPNUM": 80000108, "STOPNUMNEW": 80132, "PORTALNUM": 80132.1 }, "geometry": { "type": "Point", "coordinates": [ -118.38846998916496, 34.027836993619495 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 1.0, "PORTALNAME": "West ent.", "LATITUDE": 34.027919, "LONGITUDE": -118.389314, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Culver City", "OLDSTOPNUM": 80000108, "STOPNUMNEW": 80132, "PORTALNUM": 80132.2 }, "geometry": { "type": "Point", "coordinates": [ -118.38931400008785, 34.0279190001065 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 2.0, "PORTALNAME": "East ent.", "LATITUDE": 34.02641, "LONGITUDE": -118.37165, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "La Cienega \/ Jefferson", "OLDSTOPNUM": 80000107, "STOPNUMNEW": 80131, "PORTALNUM": 80131.1 }, "geometry": { "type": "Point", "coordinates": [ -118.371655710706406, 34.026388584850942 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 2.0, "PORTALNAME": "West ent.", "LATITUDE": 34.02634, "LONGITUDE": -118.37257, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "La Cienega \/ Jefferson", "OLDSTOPNUM": 80000107, "STOPNUMNEW": 80131, "PORTALNUM": 80131.2 }, "geometry": { "type": "Point", "coordinates": [ -118.37257, 34.02634 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 3.0, "PORTALNAME": "East ent.", "LATITUDE": 34.02472, "LONGITUDE": -118.35467, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Expo \/ La Brea", "OLDSTOPNUM": 80000106, "STOPNUMNEW": 80130, "PORTALNUM": 80130.1 }, "geometry": { "type": "Point", "coordinates": [ -118.35467, 34.02472 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 3.0, "PORTALNAME": "West ent.", "LATITUDE": 34.02481, "LONGITUDE": -118.35569, "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Expo \/ La Brea", "OLDSTOPNUM": 80000106, "STOPNUMNEW": 80130, "PORTALNUM": 80130.2 }, "geometry": { "type": "Point", "coordinates": [ -118.35569, 34.02481 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 4.0, "PORTALNAME": "Eastbound platform ent.", "LATITUDE": 34.02391, "LONGITUDE": -118.34634, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Farmdale", "OLDSTOPNUM": 80000105, "STOPNUMNEW": 80129, "PORTALNUM": 80129.1 }, "geometry": { "type": "Point", "coordinates": [ -118.346341330568634, 34.023936611372868 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 4.0, "PORTALNAME": "Westbound platform ent.", "LATITUDE": 34.02398, "LONGITUDE": -118.34587, "RAMP": "yes", "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Farmdale", "OLDSTOPNUM": 80000105, "STOPNUMNEW": 80129, "PORTALNUM": 80129.2 }, "geometry": { "type": "Point", "coordinates": [ -118.345871330568656, 34.024006611372869 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 5.0, "PORTALNAME": "Eastbound platform ent.", "LATITUDE": 34.02252, "LONGITUDE": -118.33528, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Expo \/ Crenshaw", "OLDSTOPNUM": 80000104, "STOPNUMNEW": 80128, "PORTALNUM": 80128.1 }, "geometry": { "type": "Point", "coordinates": [ -118.335277144646781, 34.022507150910577 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 5.0, "PORTALNAME": "Westbound platform ent.", "LATITUDE": 34.02256, "LONGITUDE": -118.33492, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Expo \/ Crenshaw", "OLDSTOPNUM": 80000104, "STOPNUMNEW": 80128, "PORTALNUM": 80128.2 }, "geometry": { "type": "Point", "coordinates": [ -118.334944270502248, 34.022551433940379 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 6.0, "PORTALNAME": "Eastbound platform ent.", "LATITUDE": 34.01828, "LONGITUDE": -118.30874, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Expo \/ Western", "OLDSTOPNUM": 80000103, "STOPNUMNEW": 80127, "PORTALNUM": 80127.1 }, "geometry": { "type": "Point", "coordinates": [ -118.30874, 34.01828 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 6.0, "PORTALNAME": "Westbound platform ent.", "LATITUDE": 34.01838, "LONGITUDE": -118.30905, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Expo \/ Western", "OLDSTOPNUM": 80000103, "STOPNUMNEW": 80127, "PORTALNUM": 80127.2 }, "geometry": { "type": "Point", "coordinates": [ -118.30905, 34.01838 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 7.0, "PORTALNAME": "Eastbound platform west ent", "LATITUDE": 34.01819, "LONGITUDE": -118.2916, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Expo \/ Vermont", "OLDSTOPNUM": 80000102, "STOPNUMNEW": 80126, "PORTALNUM": 80126.1 }, "geometry": { "type": "Point", "coordinates": [ -118.291403487244921, 34.018185818877548 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 7.0, "PORTALNAME": "Eastbound platform east ent", "LATITUDE": 34.01819, "LONGITUDE": -118.29024, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Expo \/ Vermont", "OLDSTOPNUM": 80000102, "STOPNUMNEW": 80126, "PORTALNUM": 80126.2 }, "geometry": { "type": "Point", "coordinates": [ -118.29024, 34.01819 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 7.0, "PORTALNAME": "Westbound platform ent.", "LATITUDE": 34.0183, "LONGITUDE": -118.29173, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Expo \/ Vermont", "OLDSTOPNUM": 80000102, "STOPNUMNEW": 80126, "PORTALNUM": 80126.3 }, "geometry": { "type": "Point", "coordinates": [ -118.29173, 34.0183 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 8.0, "PORTALNAME": "Eastbound platform ent.", "LATITUDE": 34.01818, "LONGITUDE": -118.28647, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Expo Park \/ USC", "OLDSTOPNUM": 80000101, "STOPNUMNEW": 80125, "PORTALNUM": 80125.1 }, "geometry": { "type": "Point", "coordinates": [ -118.28647, 34.01818 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 8.0, "PORTALNAME": "Westbound platform ent.", "LATITUDE": 34.01828, "LONGITUDE": -118.28647, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Expo Park \/ USC", "OLDSTOPNUM": 80000101, "STOPNUMNEW": 80125, "PORTALNUM": 80125.2 }, "geometry": { "type": "Point", "coordinates": [ -118.28647, 34.01828 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 9.0, "PORTALNAME": "Northbound ent.", "LATITUDE": 34.02142, "LONGITUDE": -118.27849, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "West", "STATION": "Jefferson \/ USC", "OLDSTOPNUM": 80000100, "STOPNUMNEW": 80124, "PORTALNUM": 80124.1 }, "geometry": { "type": "Point", "coordinates": [ -118.27849, 34.02142 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 9.0, "PORTALNAME": "Southbound ent.", "LATITUDE": 34.02147, "LONGITUDE": -118.27856, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": "East", "STATION": "Jefferson \/ USC", "OLDSTOPNUM": 80000100, "STOPNUMNEW": 80124, "PORTALNUM": 80124.2 }, "geometry": { "type": "Point", "coordinates": [ -118.278608061795822, 34.021473560133025 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 10.0, "PORTALNAME": "North ent.", "LATITUDE": 34.03011, "LONGITUDE": -118.27303, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": null, "STATION": "23rd St", "OLDSTOPNUM": 80000099, "STOPNUMNEW": 80123, "PORTALNUM": 80123.1 }, "geometry": { "type": "Point", "coordinates": [ -118.272993356300518, 34.030060031318875 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 10.0, "PORTALNAME": "South ent.", "LATITUDE": 34.02849, "LONGITUDE": -118.27391, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "DIR": null, "STATION": "23rd St", "OLDSTOPNUM": 80000099, "STOPNUMNEW": 80123, "PORTALNUM": 80123.2 }, "geometry": { "type": "Point", "coordinates": [ -118.273873356300513, 34.028440031318873 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 12.0, "PORTALNAME": "7th & Figueroa, main", "LATITUDE": 34.04936, "LONGITUDE": -118.25966, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "yes", "DIR": null, "STATION": "Metro Center", "OLDSTOPNUM": 80000022, "STOPNUMNEW": 80122, "PORTALNUM": 80122.1 }, "geometry": { "type": "Point", "coordinates": [ -118.25966, 34.04936 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 12.0, "PORTALNAME": "7th & Figueroa, elevator", "LATITUDE": 34.04916, "LONGITUDE": -118.25933, "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Metro Center", "OLDSTOPNUM": 80000022, "STOPNUMNEW": 80122, "PORTALNUM": 80122.2 }, "geometry": { "type": "Point", "coordinates": [ -118.25933, 34.04916 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 12.0, "PORTALNAME": "7th & Flower, main", "LATITUDE": 34.0487, "LONGITUDE": -118.25856, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "up", "DIR": null, "STATION": "Metro Center", "OLDSTOPNUM": 80000022, "STOPNUMNEW": 80122, "PORTALNUM": 80122.3 }, "geometry": { "type": "Point", "coordinates": [ -118.25856, 34.0487 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 12.0, "PORTALNAME": "7th & Flower, elevator", "LATITUDE": 34.0489, "LONGITUDE": -118.25839, "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "DIR": null, "STATION": "Metro Center", "OLDSTOPNUM": 80000022, "STOPNUMNEW": 80122, "PORTALNUM": 80122.4 }, "geometry": { "type": "Point", "coordinates": [ -118.25839, 34.0489 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 12.0, "PORTALNAME": "7th & Hope", "LATITUDE": 34.04815, "LONGITUDE": -118.25774, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "up", "DIR": null, "STATION": "Metro Center", "OLDSTOPNUM": 80000022, "STOPNUMNEW": 80122, "PORTALNUM": 80122.5 }, "geometry": { "type": "Point", "coordinates": [ -118.25774, 34.04815 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 11.0, "PORTALNAME": "Flower & Pico", "LATITUDE": 34.04033, "LONGITUDE": -118.26637, "RAMP": "yes", "STAIR": null, "ELEVATOR": null, "ESCALATOR": null, "DIR": null, "STATION": "Pico", "OLDSTOPNUM": 80000021, "STOPNUMNEW": 80121, "PORTALNUM": 80121.1 }, "geometry": { "type": "Point", "coordinates": [ -118.26637, 34.04033 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Expo", "STASEQ": 11.0, "PORTALNAME": "Flower & 12th", "LATITUDE": 34.04104, "LONGITUDE": -118.26573, "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "DIR": null, "STATION": "Pico", "OLDSTOPNUM": 80000021, "STOPNUMNEW": 80121, "PORTALNUM": 80121.2 }, "geometry": { "type": "Point", "coordinates": [ -118.26573, 34.04104 ] } }
+
+]
+}

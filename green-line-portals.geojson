@@ -1,0 +1,74 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000058, "LATITUDE": 33.927467, "LONGITUDE": -118.26485, "STNSEQ": 5.0, "DIR": null, "STATION": "Avalon", "STOPNUMNEW": 80310.0, "PORTALNUM": 80310.1 }, "geometry": { "type": "Point", "coordinates": [ -118.26485, 33.927467 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000058, "LATITUDE": 33.927467, "LONGITUDE": -118.26555, "STNSEQ": 5.0, "DIR": null, "STATION": "Avalon", "STOPNUMNEW": 80310.0, "PORTALNUM": 80310.2 }, "geometry": { "type": "Point", "coordinates": [ -118.26555, 33.927467 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "up", "OLDSTOPNUM": 80000063, "LATITUDE": 33.929617, "LONGITUDE": -118.37655, "STNSEQ": 10.0, "DIR": null, "STATION": "Aviation \/ LAX", "STOPNUMNEW": 80305.0, "PORTALNUM": 80305.1 }, "geometry": { "type": "Point", "coordinates": [ -118.37655, 33.929617 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "up", "OLDSTOPNUM": 80000063, "LATITUDE": 33.929633, "LONGITUDE": -118.377633, "STNSEQ": 10.0, "DIR": null, "STATION": "Aviation \/ LAX", "STOPNUMNEW": 80305.0, "PORTALNUM": 80305.2 }, "geometry": { "type": "Point", "coordinates": [ -118.37763, 33.929633 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Central Elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000063, "LATITUDE": 33.929683, "LONGITUDE": -118.377133, "STNSEQ": 10.0, "DIR": null, "STATION": "Aviation \/ LAX", "STOPNUMNEW": 80305.0, "PORTALNUM": 80305.3 }, "geometry": { "type": "Point", "coordinates": [ -118.377133, 33.929683 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000061, "LATITUDE": 33.925233, "LONGITUDE": -118.3261, "STNSEQ": 8.0, "DIR": null, "STATION": "Crenshaw", "STOPNUMNEW": 80307.0, "PORTALNUM": 80307.1 }, "geometry": { "type": "Point", "coordinates": [ -118.3261, 33.925233 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000061, "LATITUDE": 33.925183, "LONGITUDE": -118.326967, "STNSEQ": 8.0, "DIR": null, "STATION": "Crenshaw", "STOPNUMNEW": 80307.0, "PORTALNUM": 80307.2 }, "geometry": { "type": "Point", "coordinates": [ -118.32697, 33.925183 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Northwest entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "OLDSTOPNUM": 80000066, "LATITUDE": 33.9055, "LONGITUDE": -118.383417, "STNSEQ": 13.0, "DIR": null, "STATION": "Douglas", "STOPNUMNEW": 80302.0, "PORTALNUM": 80302.1 }, "geometry": { "type": "Point", "coordinates": [ -118.383417, 33.9055 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Southeast entrance", "RAMP": "yes", "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000066, "LATITUDE": 33.905067, "LONGITUDE": -118.382917, "STNSEQ": 13.0, "DIR": null, "STATION": "Douglas", "STOPNUMNEW": 80302.0, "PORTALNUM": 80302.2 }, "geometry": { "type": "Point", "coordinates": [ -118.382917, 33.905067 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Northwest entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000065, "LATITUDE": 33.916649, "LONGITUDE": -118.387239, "STNSEQ": 12.0, "DIR": null, "STATION": "El Segundo", "STOPNUMNEW": 80303.0, "PORTALNUM": 80303.1 }, "geometry": { "type": "Point", "coordinates": [ -118.387239, 33.916649 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Southeast entrance", "RAMP": "yes", "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "OLDSTOPNUM": 80000065, "LATITUDE": 33.915733, "LONGITUDE": -118.386117, "STNSEQ": 12.0, "DIR": null, "STATION": "El Segundo", "STOPNUMNEW": 80303.0, "PORTALNUM": 80303.2 }, "geometry": { "type": "Point", "coordinates": [ -118.386117, 33.915733 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "South elevator", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000065, "LATITUDE": 33.915883, "LONGITUDE": -118.3863, "STNSEQ": 12.0, "DIR": null, "STATION": "El Segundo", "STOPNUMNEW": 80303.0, "PORTALNUM": 80303.3 }, "geometry": { "type": "Point", "coordinates": [ -118.3863, 33.915883 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance (Figueroa)", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000059, "LATITUDE": 33.9287, "LONGITUDE": -118.28155, "STNSEQ": 6.0, "DIR": null, "STATION": "Harbor Freeway", "STOPNUMNEW": 80309.0, "PORTALNUM": 80309.1 }, "geometry": { "type": "Point", "coordinates": [ -118.28155, 33.9287 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance (Harbor Tway)", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000059, "LATITUDE": 33.9287, "LONGITUDE": -118.2807, "STNSEQ": 6.0, "DIR": null, "STATION": "Harbor Freeway", "STOPNUMNEW": 80309.0, "PORTALNUM": 80309.2 }, "geometry": { "type": "Point", "coordinates": [ -118.2807, 33.9287 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Hawthorne East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000062, "LATITUDE": 33.933567, "LONGITUDE": -118.352317, "STNSEQ": 9.0, "DIR": null, "STATION": "Hawthorne \/ Lennox", "STOPNUMNEW": 80306.0, "PORTALNUM": 80306.1 }, "geometry": { "type": "Point", "coordinates": [ -118.35232, 33.933567 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Hawthorne West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000062, "LATITUDE": 33.933579, "LONGITUDE": -118.352886, "STNSEQ": 9.0, "DIR": null, "STATION": "Hawthorne \/ Lennox", "STOPNUMNEW": 80306.0, "PORTALNUM": 80306.2 }, "geometry": { "type": "Point", "coordinates": [ -118.352886, 33.933579 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Park-Ride entrance", "RAMP": "yes", "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "OLDSTOPNUM": 80000062, "LATITUDE": 33.932617, "LONGITUDE": -118.351383, "STNSEQ": 9.0, "DIR": null, "STATION": "Hawthorne \/ Lennox", "STOPNUMNEW": 80306.0, "PORTALNUM": 80306.3 }, "geometry": { "type": "Point", "coordinates": [ -118.35138, 33.932617 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Willowbrook East elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000057, "LATITUDE": 33.928233, "LONGITUDE": -118.237517, "STNSEQ": 4.0, "DIR": null, "STATION": "Willowbrook (Rosa Parks)", "STOPNUMNEW": 80311.0, "PORTALNUM": 80311.1 }, "geometry": { "type": "Point", "coordinates": [ -118.237517, 33.928233 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Willowbrook West elevator", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000057, "LATITUDE": 33.9283, "LONGITUDE": -118.2385, "STNSEQ": 4.0, "DIR": null, "STATION": "Willowbrook (Rosa Parks)", "STOPNUMNEW": 80311.0, "PORTALNUM": 80311.2 }, "geometry": { "type": "Point", "coordinates": [ -118.2385, 33.9283 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Wilmington elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000057, "LATITUDE": 33.928333, "LONGITUDE": -118.239417, "STNSEQ": 4.0, "DIR": null, "STATION": "Willowbrook (Rosa Parks)", "STOPNUMNEW": 80311.0, "PORTALNUM": 80311.3 }, "geometry": { "type": "Point", "coordinates": [ -118.239417, 33.928333 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000055, "LATITUDE": 33.913046, "LONGITUDE": -118.140432, "STNSEQ": 2.0, "DIR": null, "STATION": "Lakewood", "STOPNUMNEW": 80313.0, "PORTALNUM": 80313.1 }, "geometry": { "type": "Point", "coordinates": [ -118.140432, 33.913046 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000055, "LATITUDE": 33.913033, "LONGITUDE": -118.140867, "STNSEQ": 2.0, "DIR": null, "STATION": "Lakewood", "STOPNUMNEW": 80313.0, "PORTALNUM": 80313.2 }, "geometry": { "type": "Point", "coordinates": [ -118.140867, 33.913033 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000056, "LATITUDE": 33.924717, "LONGITUDE": -118.2095, "STNSEQ": 3.0, "DIR": null, "STATION": "Long Beach", "STOPNUMNEW": 80312.0, "PORTALNUM": 80312.1 }, "geometry": { "type": "Point", "coordinates": [ -118.2095, 33.924717 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000056, "LATITUDE": 33.9251, "LONGITUDE": -118.2104, "STNSEQ": 3.0, "DIR": null, "STATION": "Long Beach", "STOPNUMNEW": 80312.0, "PORTALNUM": 80312.2 }, "geometry": { "type": "Point", "coordinates": [ -118.2104, 33.9251 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "Nash & Mariposa entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000064, "LATITUDE": 33.923367, "LONGITUDE": -118.387532, "STNSEQ": 11.0, "DIR": null, "STATION": "Mariposa", "STOPNUMNEW": 80304.0, "PORTALNUM": 80304.1 }, "geometry": { "type": "Point", "coordinates": [ -118.387532, 33.923367 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "South entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "OLDSTOPNUM": 80000064, "LATITUDE": 33.923083, "LONGITUDE": -118.387539, "STNSEQ": 11.0, "DIR": null, "STATION": "Mariposa", "STOPNUMNEW": 80304.0, "PORTALNUM": 80304.2 }, "geometry": { "type": "Point", "coordinates": [ -118.387539, 33.923083 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": "yes", "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": "up", "OLDSTOPNUM": 80000054, "LATITUDE": 33.913867, "LONGITUDE": -118.104, "STNSEQ": 1.0, "DIR": null, "STATION": "Norwalk", "STOPNUMNEW": 80314.0, "PORTALNUM": 80314.1 }, "geometry": { "type": "Point", "coordinates": [ -118.104, 33.913867 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": "yes", "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000054, "LATITUDE": 33.913583, "LONGITUDE": -118.105567, "STNSEQ": 1.0, "DIR": null, "STATION": "Norwalk", "STOPNUMNEW": 80314.0, "PORTALNUM": 80314.2 }, "geometry": { "type": "Point", "coordinates": [ -118.10557, 33.913583 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "North elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000067, "LATITUDE": 33.8948, "LONGITUDE": -118.369417, "STNSEQ": 14.0, "DIR": null, "STATION": "Redondo Beach", "STOPNUMNEW": 80301.0, "PORTALNUM": 80301.1 }, "geometry": { "type": "Point", "coordinates": [ -118.369417, 33.8948 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "North stairs", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": "up", "OLDSTOPNUM": 80000067, "LATITUDE": 33.894967, "LONGITUDE": -118.369617, "STNSEQ": 14.0, "DIR": null, "STATION": "Redondo Beach", "STOPNUMNEW": 80301.0, "PORTALNUM": 80301.2 }, "geometry": { "type": "Point", "coordinates": [ -118.369617, 33.894967 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "South elevator", "RAMP": null, "STAIR": null, "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000067, "LATITUDE": 33.8944, "LONGITUDE": -118.368917, "STNSEQ": 14.0, "DIR": null, "STATION": "Redondo Beach", "STOPNUMNEW": 80301.0, "PORTALNUM": 80301.3 }, "geometry": { "type": "Point", "coordinates": [ -118.368917, 33.8944 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "South stairs", "RAMP": null, "STAIR": "yes", "ELEVATOR": null, "ESCALATOR": null, "OLDSTOPNUM": 80000067, "LATITUDE": 33.894233, "LONGITUDE": -118.368667, "STNSEQ": 14.0, "DIR": null, "STATION": "Redondo Beach", "STOPNUMNEW": 80301.0, "PORTALNUM": 80301.4 }, "geometry": { "type": "Point", "coordinates": [ -118.368667, 33.894233 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "East entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000060, "LATITUDE": 33.928683, "LONGITUDE": -118.291487, "STNSEQ": 7.0, "DIR": null, "STATION": "Vermont \/ Athens", "STOPNUMNEW": 80308.0, "PORTALNUM": 80308.1 }, "geometry": { "type": "Point", "coordinates": [ -118.29149, 33.928683 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Green", "PORTALNAME": "West entrance", "RAMP": null, "STAIR": "yes", "ELEVATOR": "yes", "ESCALATOR": null, "OLDSTOPNUM": 80000060, "LATITUDE": 33.928683, "LONGITUDE": -118.292017, "STNSEQ": 7.0, "DIR": null, "STATION": "Vermont \/ Athens", "STOPNUMNEW": 80308.0, "PORTALNUM": 80308.2 }, "geometry": { "type": "Point", "coordinates": [ -118.292017, 33.928683 ] } }
+
+]
+}
