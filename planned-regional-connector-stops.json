@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "LINE": "Planned Regional Connector", "STATION: "1st Street/Central Avenue" },
+      "properties": { "LINE": "Planned Regional Connector", "STATION: '1st Street/Central Avenue' },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "LINE": "Planned Regional Connector", "STATION: "2nd Street/Broadway" },
+      "properties": { "LINE": "Planned Regional Connector", "STATION: '2nd Street/Broadway' },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +25,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "LINE": "Planned Regional Connector", "STATION: "2nd Place/Hope Street" },
+      "properties": { "LINE": "Planned Regional Connector", "STATION: '2nd Place/Hope Street' },
       "geometry": {
         "type": "Point",
         "coordinates": [
