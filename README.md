@@ -2,9 +2,13 @@
 
 Geospatial data from the L.A. Metro's public transportation system
 
-## Source
+## Sources
 
+Existing lines and stops published by L.A. Metro
 http://developer.metro.net/introduction/gis-data/download-gis-data/
+
+Planned lines and stop estimated by me, Ben Welsh, based on flat map's published by L.A. Metro
+http://www.metro.net/projects/connector/
 
 ## Process
 
