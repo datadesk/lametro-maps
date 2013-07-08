@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 1, "OLDSTOPNUM": 80000028.0, "POINT_X": -118.234249, "POINT_Y": 34.056197, "STATION": "Union Station", "STOPNUMNEW": 80214.0 }, "geometry": { "type": "Point", "coordinates": [ -118.23424885775745, 34.05619749504941 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 2, "OLDSTOPNUM": 80000029.0, "POINT_X": -118.246057, "POINT_Y": 34.0549, "STATION": "Civic Center", "STOPNUMNEW": 80213.0 }, "geometry": { "type": "Point", "coordinates": [ -118.246056302817905, 34.054899331371459 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 3, "OLDSTOPNUM": 80000030.0, "POINT_X": -118.251259, "POINT_Y": 34.049316, "STATION": "Pershing Square", "STOPNUMNEW": 80212.0 }, "geometry": { "type": "Point", "coordinates": [ -118.251259, 34.049316 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 4, "OLDSTOPNUM": 80000031.0, "POINT_X": -118.258682, "POINT_Y": 34.048634, "STATION": "7th Street \/ Metro Center", "STOPNUMNEW": 80211.0 }, "geometry": { "type": "Point", "coordinates": [ -118.258682, 34.048634 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 5, "OLDSTOPNUM": 80000032.0, "POINT_X": -118.274879, "POINT_Y": 34.056368, "STATION": "Westlake \/ McArthur Park", "STOPNUMNEW": 80210.0 }, "geometry": { "type": "Point", "coordinates": [ -118.274879, 34.056368 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red\/Purple", "STNSEQ": 6, "OLDSTOPNUM": 80000033.0, "POINT_X": -118.290082, "POINT_Y": 34.062701, "STATION": "Wilshire \/ Vermont", "STOPNUMNEW": 80209.0 }, "geometry": { "type": "Point", "coordinates": [ -118.29008, 34.062701 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 7, "OLDSTOPNUM": 80000036.0, "POINT_X": -118.291686, "POINT_Y": 34.076526, "STATION": "Vermont \/ Beverly", "STOPNUMNEW": 80208.0 }, "geometry": { "type": "Point", "coordinates": [ -118.291686279174272, 34.07652575972476 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 8, "OLDSTOPNUM": 80000037.0, "POINT_X": -118.29173, "POINT_Y": 34.08991, "STATION": "Vermont \/ Santa Monica", "STOPNUMNEW": 80207.0 }, "geometry": { "type": "Point", "coordinates": [ -118.29173, 34.08991 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 9, "OLDSTOPNUM": 80000038.0, "POINT_X": -118.291756, "POINT_Y": 34.097708, "STATION": "Vermont \/ Sunset", "STOPNUMNEW": 80206.0 }, "geometry": { "type": "Point", "coordinates": [ -118.291756, 34.097708 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 10, "OLDSTOPNUM": 80000039.0, "POINT_X": -118.308117, "POINT_Y": 34.101737, "STATION": "Hollywood \/ Western", "STOPNUMNEW": 80205.0 }, "geometry": { "type": "Point", "coordinates": [ -118.308117259524792, 34.101737190495768 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 11, "OLDSTOPNUM": 80000040.0, "POINT_X": -118.32518, "POINT_Y": 34.10163, "STATION": "Hollywood \/ Vine", "STOPNUMNEW": 80204.0 }, "geometry": { "type": "Point", "coordinates": [ -118.32518, 34.10163 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 12, "OLDSTOPNUM": 80000041.0, "POINT_X": -118.338549, "POINT_Y": 34.101547, "STATION": "Hollywood \/ Highland", "STOPNUMNEW": 80203.0 }, "geometry": { "type": "Point", "coordinates": [ -118.338549333674692, 34.10154683725937 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 13, "OLDSTOPNUM": 80000042.0, "POINT_X": -118.362699, "POINT_Y": 34.140002, "STATION": "Universal City", "STOPNUMNEW": 80202.0 }, "geometry": { "type": "Point", "coordinates": [ -118.362699, 34.140002 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Red", "STNSEQ": 14, "OLDSTOPNUM": 80000043.0, "POINT_X": -118.376808, "POINT_Y": 34.168504, "STATION": "North Hollywood", "STOPNUMNEW": 80201.0 }, "geometry": { "type": "Point", "coordinates": [ -118.376808008, 34.168503997 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "STNSEQ": 15, "OLDSTOPNUM": 80000034.0, "POINT_X": -118.301458, "POINT_Y": 34.061753, "STATION": "Wilshire \/ Normandie", "STOPNUMNEW": 80215.0 }, "geometry": { "type": "Point", "coordinates": [ -118.301458, 34.061753 ] } }
+,
+{ "type": "Feature", "properties": { "LINE": "Purple", "STNSEQ": 16, "OLDSTOPNUM": 80000035.0, "POINT_X": -118.308756, "POINT_Y": 34.061689, "STATION": "Wilshire \/ Western", "STOPNUMNEW": 80216.0 }, "geometry": { "type": "Point", "coordinates": [ -118.308756, 34.061689 ] } }
+
+]
+}
