@@ -1,14 +1,19 @@
-# Los Angeles Metro Maps
+<pre><code> _       ____      ___ ___    ___ ______  ____   ___       ___ ___   ____  ____    _____
+| |     /    |    |   |   |  /  _]      ||    \ /   \     |   |   | /    ||    \  / ___/
+| |    |  o  |    | _   _ | /  [_|      ||  D  )     |    | _   _ ||  o  ||  o  )(   \_ 
+| |___ |     |    |  \_/  ||    _]_|  |_||    /|  O  |    |  \_/  ||     ||   _/  \__  |
+|     ||  _  |    |   |   ||   [_  |  |  |    \|     |    |   |   ||  _  ||  |    /  \ |
+|     ||  |  |    |   |   ||     | |  |  |  .  \     |    |   |   ||  |  ||  |    \    |
+|_____||__|__|    |___|___||_____| |__|  |__|\_|\___/     |___|___||__|__||__|     \___|
+                                                                                        </code></pre>
 
 Geospatial data from the L.A. Metro's public transportation system
 
 ## Sources
 
-Existing lines and stops published by L.A. Metro
-http://developer.metro.net/introduction/gis-data/download-gis-data/
+Existing lines and stops published by [L.A. Metro](http://developer.metro.net/introduction/gis-data/download-gis-data/).
 
-Planned lines and stop estimated by me, Ben Welsh, based on flat map's published by L.A. Metro
-http://www.metro.net/projects/connector/
+Planned lines and stops estimated by me, Ben Welsh, based on flat maps [published by L.A. Metro](http://www.metro.net/projects/connector/).
 
 ## Process
 
