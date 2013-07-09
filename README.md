@@ -7,13 +7,17 @@
 |_____||__|__|    |___|___||_____| |__|  |__|\_|\___/     |___|___||__|__||__|     \___|
                                                                                         </code></pre>
 
-Geospatial data from the L.A. Metro's public transportation system
+Geospatial data from L.A. Metro's public transportation system
 
 ## Sources
 
 Existing lines and stops published by [L.A. Metro](http://developer.metro.net/introduction/gis-data/download-gis-data/).
 
 Planned lines and stops estimated by me, Ben Welsh, based on flat maps [published by L.A. Metro](http://www.metro.net/projects/connector/).
+
+## In action
+
+* [Where will Downtown L.A.'s Regional Connector run?](http://palewi.re/posts/2013/07/08/where-will-downtown-la-regional-connector-run/)
 
 ## Process
 
