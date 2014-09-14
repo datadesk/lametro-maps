@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "station": "Crenshaw\/MLK", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.335131760358649, 34.010931523953055 ] } },
+{ "type": "Feature", "properties": { "station": "Leimert Park", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.33193141542273, 34.003629515724697 ] } },
+{ "type": "Feature", "properties": { "station": "Crenshaw\/Slauson", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.330773195350702, 33.989023615825012 ] } },
+{ "type": "Feature", "properties": { "station": "Florence\/West", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.335253678260969, 33.975476800497177 ] } },
+{ "type": "Feature", "properties": { "station": "Florence\/La Brea", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.35335848675544, 33.965492224703404 ] } },
+{ "type": "Feature", "properties": { "station": "Florence\/Hindry", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.373566379064968, 33.962205905392885 ] } },
+{ "type": "Feature", "properties": { "station": "Aviation\/Century", "line": "Crenshaw" }, "geometry": { "type": "Point", "coordinates": [ -118.378504054108916, 33.945544841430745 ] } }
+]
+}
