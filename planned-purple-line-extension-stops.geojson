@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilshire/La Brea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34393262863159,
+          34.0620457811704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilshire/Fairfax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36131334304808,
+          34.06279237879606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilshire/La Cienega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37603330612183,
+          34.06494325423211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wilshire/Rodeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40120315551758,
+          34.06689854816261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Century City/Constellation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41622352600096,
+          34.05913043221902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Westwood/UCLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4437322616577,
+          34.058597125828946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Westwood/VA Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45714330673216,
+          34.05372610551739
+        ]
+      }
+    }
+  ]
+}
