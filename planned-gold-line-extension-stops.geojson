@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "APU/Citrus College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.89008140563963,
+          34.1369926632155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Azusa Downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90705442428589,
+          34.13571389924325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Irwindale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93306112289427,
+          34.12894678446017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Duarte/City of Hope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97172784805298,
+          34.13248138181811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Monrovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00312042236327,
+          34.13308526809053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arcadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.02839756011963,
+          34.14240943488607
+        ]
+      }
+    }
+  ]
+}
